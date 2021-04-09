@@ -1,0 +1,868 @@
+﻿Year,State,Deaths,Crude Death Rate
+1/1/2004,Texas,1813,8.1
+1/1/2012,Arizona,1134,17.3
+1/1/2009,Washington,987,14.8
+1/1/2008,Utah,468,17.6
+1/1/1999,Louisiana,188,4.2
+1/1/2011,Arizona,1071,16.5
+1/1/2012,California,4040,10.6
+1/1/2010,Mississippi,334,11.3
+1/1/2002,Oklahoma,240,6.9
+1/1/2009,New York,1592,8.2
+1/1/2014,Alaska,124,16.8
+1/1/2001,Texas,1374,6.4
+1/1/2001,Kansas,138,5.1
+1/1/2009,Virginia,685,8.6
+1/1/2003,Delaware,77,9.4
+1/1/2002,Alabama,211,4.7
+1/1/2012,Idaho,181,11.3
+1/1/2003,South Carolina,287,6.9
+1/1/2011,Delaware,160,17.6
+1/1/2013,Arizona,1222,18.4
+1/1/1999,Connecticut,310,9.2
+1/1/2000,West Virginia,113,6.2
+1/1/2007,Illinois,1192,9.4
+1/1/2005,Tennessee,872,14.6
+1/1/2013,New Jersey,1294,14.5
+1/1/2003,Colorado,502,11.1
+1/1/2006,Tennessee,975,16
+1/1/1999,Minnesota,136,2.8
+1/1/2013,Ohio,2347,20.3
+1/1/2001,North Dakota,14,2.2
+1/1/2014,Connecticut,623,17.3
+1/1/2001,District of Columbia,93,16.2
+1/1/1999,West Virginia,75,4.1
+1/1/2011,Kentucky,1058,24.2
+1/1/2012,South Carolina,587,12.4
+1/1/2004,Kentucky,526,12.7
+1/1/2006,Oklahoma,563,15.7
+1/1/2010,Vermont,63,10.1
+1/1/2007,Nevada,499,19.2
+1/1/2012,Alabama,562,11.7
+1/1/2013,Delaware,166,17.9
+1/1/1999,North Carolina,366,4.6
+1/1/2004,Tennessee,763,12.9
+1/1/2005,Arkansas,269,9.7
+1/1/2013,Minnesota,523,9.6
+1/1/2015,Texas,2588,9.4
+1/1/2011,South Carolina,618,13.2
+1/1/1999,Alaska,46,7.4
+1/1/2010,District of Columbia,78,13
+1/1/2006,California,3494,9.7
+1/1/2006,Ohio,1515,13.2
+1/1/2014,Alabama,723,14.9
+1/1/2008,West Virginia,459,24.9
+1/1/2004,Maine,140,10.7
+1/1/2014,South Carolina,701,14.5
+1/1/2005,Oregon,386,10.7
+1/1/2005,Wyoming,26,5.1
+1/1/2006,Colorado,627,13.3
+1/1/2014,Idaho,212,13
+1/1/2009,West Virginia,226,12.2
+1/1/2004,Ohio,1136,9.9
+1/1/2003,Alabama,197,4.4
+1/1/2008,Iowa,209,6.9
+1/1/2004,Florida,2264,13
+1/1/2014,North Carolina,1358,13.7
+1/1/2000,Nevada,273,13.7
+1/1/2005,Idaho,109,7.6
+1/1/2002,Massachusetts,705,11
+1/1/2013,Hawaii,158,11.3
+1/1/2000,Virginia,411,5.8
+1/1/2003,New Hampshire,127,9.9
+1/1/2003,Oklahoma,400,11.4
+1/1/2011,Montana,141,14.1
+1/1/2001,Nevada,261,12.4
+1/1/1999,California,2662,7.9
+1/1/2010,Nevada,578,21.4
+1/1/2006,Hawaii,86,6.6
+1/1/2011,South Dakota,57,6.9
+1/1/2012,Mississippi,310,10.4
+1/1/2010,Colorado,654,13
+1/1/2008,North Dakota,46,7
+1/1/2015,Illinois,1835,14.3
+1/1/2015,Wyoming,96,16.4
+1/1/2014,Texas,2601,9.6
+1/1/2015,Michigan,1980,20
+1/1/2002,California,2975,8.5
+1/1/2010,Maine,135,10.2
+1/1/2007,Pennsylvania,1733,13.8
+1/1/2015,Georgia,1302,12.7
+1/1/2002,Delaware,84,10.4
+1/1/2007,Missouri,714,12.1
+1/1/2013,Indiana,1064,16.2
+1/1/2001,Maine,85,6.6
+1/1/2004,Alaska,86,13
+1/1/2002,Arkansas,176,6.5
+1/1/2003,New York,964,5
+1/1/2005,Hawaii,126,9.7
+1/1/2015,South Dakota,65,7.6
+1/1/2012,Colorado,807,15.6
+1/1/1999,Nebraska,39,2.3
+1/1/2012,Indiana,1011,15.5
+1/1/2002,Montana,78,8.6
+1/1/2013,New Mexico,458,22
+1/1/2006,Idaho,130,8.9
+1/1/2000,Wyoming,22,4.5
+1/1/1999,Oregon,210,6.2
+1/1/2005,Arizona,794,13.6
+1/1/2003,Maryland,779,14.2
+1/1/2001,Alaska,62,9.8
+1/1/2014,New York,2300,11.6
+1/1/2012,Wyoming,98,17
+1/1/2001,New Jersey,705,8.3
+1/1/2001,Kentucky,345,8.5
+1/1/2010,North Dakota,23,3.4
+1/1/2011,New Mexico,529,25.4
+1/1/2013,Texas,2446,9.2
+1/1/2006,Minnesota,311,6
+1/1/2002,Illinois,986,7.9
+1/1/1999,Utah,205,9.3
+1/1/2014,Florida,2634,13.2
+1/1/2010,Tennessee,1080,17
+1/1/2006,Washington,897,14.1
+1/1/1999,Texas,1087,5.3
+1/1/2012,Virginia,733,9
+1/1/2014,Kentucky,1077,24.4
+1/1/2010,Washington,916,13.6
+1/1/2003,Kentucky,560,13.6
+1/1/2010,Rhode Island,167,15.9
+1/1/2010,Virginia,558,7
+1/1/2003,Vermont,65,10.5
+1/1/2014,Rhode Island,247,23.4
+1/1/2000,North Carolina,491,6.1
+1/1/2014,Colorado,899,16.8
+1/1/2000,California,1941,5.7
+1/1/2011,Massachusetts,857,13
+1/1/2010,Arkansas,350,12
+1/1/2014,Tennessee,1269,19.4
+1/1/1999,Kentucky,197,4.9
+1/1/2009,Indiana,896,13.9
+1/1/2014,New Hampshire,334,25.2
+1/1/2008,Massachusetts,786,12.2
+1/1/2003,Illinois,847,6.7
+1/1/2009,Florida,3092,16.6
+1/1/2001,South Carolina,242,6
+1/1/2008,Kentucky,764,17.8
+1/1/2011,Maine,156,11.7
+1/1/2010,New Hampshire,160,12.2
+1/1/2012,Massachusetts,859,12.9
+1/1/1999,Massachusetts,488,7.7
+1/1/2011,Wyoming,85,15
+1/1/2007,Arizona,943,15.3
+1/1/2009,Alabama,630,13.2
+1/1/2004,Virginia,558,7.5
+1/1/2008,Vermont,73,11.7
+1/1/2007,Mississippi,314,10.7
+1/1/2004,New Mexico,314,16.5
+1/1/2005,Indiana,610,9.7
+1/1/2010,Texas,2399,9.5
+1/1/2003,Texas,1753,8
+1/1/2001,Florida,1746,10.7
+1/1/2012,Florida,2597,13.4
+1/1/2002,Iowa,91,3.1
+1/1/2005,Pennsylvania,1613,13
+1/1/2007,Texas,2194,9.2
+1/1/2007,New York,1708,8.9
+1/1/2003,California,3108,8.8
+1/1/2014,New Jersey,1253,14
+1/1/2009,Massachusetts,816,12.5
+1/1/2007,Oklahoma,666,18.3
+1/1/2015,Colorado,869,15.9
+1/1/2000,Vermont,36,5.9
+1/1/2006,Nevada,461,18.3
+1/1/2006,Missouri,743,12.7
+1/1/2006,District of Columbia,101,17.7
+1/1/2009,Minnesota,419,7.9
+1/1/2008,Oregon,452,12
+1/1/2014,Missouri,1067,17.6
+1/1/2004,Hawaii,103,8.1
+1/1/2005,Maine,163,12.4
+1/1/2007,Colorado,734,15.3
+1/1/2015,Idaho,218,13.2
+1/1/2009,Hawaii,136,10.1
+1/1/2001,Georgia,511,6.1
+1/1/2015,Arkansas,392,13.2
+1/1/2005,Rhode Island,156,14.6
+1/1/2004,New Jersey,590,6.8
+1/1/2004,Georgia,666,7.6
+1/1/2006,Virginia,629,8.2
+1/1/1999,Iowa,53,1.8
+1/1/2015,Kansas,329,11.3
+1/1/2015,Alabama,736,15.1
+1/1/2012,Alaska,129,17.6
+1/1/2009,Connecticut,393,11
+1/1/2008,Idaho,146,9.5
+1/1/2005,New Mexico,373,19.3
+1/1/2009,Texas,2409,9.7
+1/1/2000,District of Columbia,76,13.3
+1/1/2013,Colorado,846,16.1
+1/1/2005,West Virginia,184,10.1
+1/1/2009,New Jersey,263,3
+1/1/2011,New Jersey,1012,11.5
+1/1/2002,Ohio,931,8.2
+1/1/2003,Alaska,83,12.8
+1/1/1999,South Dakota,17,2.3
+1/1/2010,Oregon,503,13.1
+1/1/2010,West Virginia,512,27.6
+1/1/2004,District of Columbia,87,15.3
+1/1/2005,Louisiana,661,14.4
+1/1/2014,Wyoming,109,18.7
+1/1/1999,Georgia,283,3.5
+1/1/2007,Connecticut,433,12.3
+1/1/2008,South Carolina,565,12.5
+1/1/2014,Louisiana,777,16.7
+1/1/2013,Maine,174,13.1
+1/1/2007,Massachusetts,922,14.3
+1/1/2005,District of Columbia,77,13.6
+1/1/2003,North Carolina,762,9
+1/1/2007,Tennessee,985,15.9
+1/1/2003,Indiana,434,7
+1/1/2014,Nevada,545,19.2
+1/1/2009,South Carolina,615,13.4
+1/1/2000,Texas,1021,4.9
+1/1/2004,New York,831,4.3
+1/1/2003,Florida,2054,12.1
+1/1/2008,Maryland,693,12.2
+1/1/2011,Ohio,2025,17.5
+1/1/2003,Oregon,355,10
+1/1/2011,Mississippi,302,10.1
+1/1/2015,Arizona,1274,18.7
+1/1/2005,Nebraska,86,4.9
+1/1/2003,Nevada,342,15.2
+1/1/2012,Pennsylvania,2365,18.5
+1/1/2009,Maryland,743,13
+1/1/2009,Vermont,55,8.8
+1/1/2014,Oregon,522,13.1
+1/1/2014,Hawaii,157,11.1
+1/1/2013,Oklahoma,790,20.5
+1/1/2007,Kentucky,708,16.6
+1/1/2011,Oregon,532,13.7
+1/1/2013,Pennsylvania,2426,19
+1/1/2005,Minnesota,282,5.5
+1/1/2013,New Hampshire,203,15.3
+1/1/2001,Louisiana,265,5.9
+1/1/2012,Oklahoma,771,20.2
+1/1/2012,New Hampshire,173,13.1
+1/1/2001,Nebraska,66,3.8
+1/1/2009,Mississippi,323,10.9
+1/1/2000,Nebraska,46,2.7
+1/1/2009,Kansas,304,10.7
+1/1/2002,Wisconsin,340,6.2
+1/1/2001,Montana,56,6.2
+1/1/2013,Utah,594,20.5
+1/1/2007,Alabama,511,10.9
+1/1/2010,Maryland,650,11.3
+1/1/2013,Kansas,331,11.4
+1/1/2004,Oklahoma,476,13.5
+1/1/2011,New Hampshire,210,15.9
+1/1/2011,Nevada,639,23.5
+1/1/2002,Oregon,318,9.1
+1/1/2005,Georgia,738,8.3
+1/1/2013,Mississippi,316,10.6
+1/1/2013,Kentucky,1019,23.2
+1/1/2001,Wyoming,22,4.4
+1/1/2004,Missouri,548,9.5
+1/1/2007,Wisconsin,622,11.1
+1/1/2007,Vermont,66,10.6
+1/1/2009,Iowa,207,6.8
+1/1/2015,Missouri,1066,17.5
+1/1/2002,Virginia,509,7
+1/1/2012,Tennessee,1131,17.5
+1/1/2009,Georgia,1007,10.5
+1/1/2010,Wyoming,85,15.1
+1/1/2002,Colorado,448,10
+1/1/2012,District of Columbia,77,12.2
+1/1/1999,New Jersey,557,6.7
+1/1/2012,Texas,2447,9.4
+1/1/2007,Kansas,270,9.7
+1/1/2004,Minnesota,250,4.9
+1/1/2004,Wyoming,46,9
+1/1/2001,Connecticut,307,8.9
+1/1/2014,Washington,979,13.9
+1/1/2003,Missouri,522,9.1
+1/1/2013,Nebraska,117,6.3
+1/1/2005,Illinois,1067,8.5
+1/1/2009,North Carolina,1191,12.6
+1/1/2014,Pennsylvania,2732,21.4
+1/1/2015,Utah,646,21.6
+1/1/1999,Maine,67,5.3
+1/1/2001,Missouri,351,6.2
+1/1/2002,Wyoming,34,6.8
+1/1/2002,New Jersey,813,9.5
+1/1/2012,North Carolina,1298,13.3
+1/1/2003,Louisiana,536,11.9
+1/1/2001,Pennsylvania,958,7.8
+1/1/2009,Nebraska,106,5.8
+1/1/2005,New Jersey,823,9.5
+1/1/1999,Mississippi,87,3.1
+1/1/2009,South Dakota,49,6.1
+1/1/2012,Nevada,602,21.8
+1/1/2007,Utah,511,19.7
+1/1/2001,California,1226,3.6
+1/1/2000,Arizona,522,10.2
+1/1/2004,Michigan,867,8.6
+1/1/2013,Rhode Island,241,22.9
+1/1/2006,Utah,444,17.6
+1/1/2010,Illinois,1288,10
+1/1/2006,Florida,2591,14.3
+1/1/2006,Maryland,762,13.5
+1/1/1999,New York,959,5.1
+1/1/2013,New York,2309,11.8
+1/1/2004,North Dakota,17,2.6
+1/1/2013,Arkansas,319,10.8
+1/1/2009,California,4056,11
+1/1/2007,Maryland,769,13.6
+1/1/2014,Minnesota,517,9.5
+1/1/2005,Nevada,457,18.8
+1/1/2002,Georgia,563,6.6
+1/1/2001,Wisconsin,269,5
+1/1/2013,Massachusetts,1081,16.2
+1/1/2015,Virginia,1039,12.4
+1/1/2015,New York,2754,13.9
+1/1/2003,Connecticut,307,8.8
+1/1/2004,Washington,811,13.1
+1/1/2000,New Hampshire,45,3.6
+1/1/2005,Texas,1910,8.4
+1/1/2009,Ohio,1236,10.7
+1/1/2005,South Dakota,40,5.2
+1/1/2013,South Carolina,620,13
+1/1/2012,Kentucky,1078,24.6
+1/1/2005,Virginia,581,7.7
+1/1/2006,Arizona,876,14.5
+1/1/2012,West Virginia,558,30.1
+1/1/2007,Rhode Island,135,12.8
+1/1/2013,North Dakota,20,2.8
+1/1/2015,Kentucky,1273,28.8
+1/1/2004,Oregon,365,10.2
+1/1/2011,Louisiana,601,13.1
+1/1/2009,Maine,173,13
+1/1/2012,Oregon,490,12.6
+1/1/2008,Georgia,935,9.8
+1/1/2009,Wyoming,60,10.7
+1/1/2012,South Dakota,42,5
+1/1/2007,District of Columbia,61,10.6
+1/1/2000,Kentucky,241,6
+1/1/2006,South Dakota,37,4.7
+1/1/2002,North Carolina,647,7.8
+1/1/2002,Mississippi,183,6.4
+1/1/2008,District of Columbia,56,9.7
+1/1/2009,Utah,478,17.6
+1/1/2007,Georgia,923,9.9
+1/1/2007,New Mexico,462,23.2
+1/1/2013,Georgia,1098,11
+1/1/2001,North Carolina,551,6.7
+1/1/1999,Montana,41,4.6
+1/1/2012,Missouri,942,15.6
+1/1/1999,Ohio,467,4.1
+1/1/2002,Nevada,323,14.9
+1/1/2004,Vermont,50,8.1
+1/1/2011,Missouri,963,16
+1/1/2005,Missouri,608,10.5
+1/1/2000,Utah,210,9.4
+1/1/2012,Hawaii,155,11.1
+1/1/1999,Nevada,227,11.7
+1/1/2006,Alaska,76,11.3
+1/1/2007,Arkansas,301,10.6
+1/1/2008,California,3863,10.6
+1/1/2003,Rhode Island,146,13.6
+1/1/2012,Washington,985,14.3
+1/1/2009,North Dakota,27,4.1
+1/1/2006,Louisiana,705,16.4
+1/1/2014,Kansas,332,11.4
+1/1/2011,Pennsylvania,2289,18
+1/1/2005,Massachusetts,780,12.2
+1/1/2003,New Mexico,358,19.1
+1/1/2012,Delaware,141,15.4
+1/1/2008,Wyoming,74,13.6
+1/1/2011,Connecticut,402,11.2
+1/1/2008,Rhode Island,185,17.5
+1/1/1999,South Carolina,147,3.7
+1/1/1999,Indiana,191,3.2
+1/1/2009,Louisiana,584,13
+1/1/2015,Vermont,99,15.8
+1/1/2008,Illinois,1353,10.6
+1/1/2014,Arkansas,356,12
+1/1/2002,Maryland,723,13.3
+1/1/2006,South Carolina,554,12.7
+1/1/2007,Washington,962,14.9
+1/1/2006,North Dakota,14,2.2
+1/1/2012,Illinois,1628,12.6
+1/1/2006,Iowa,187,6.3
+1/1/2012,North Dakota,21,3
+1/1/2011,Nebraska,129,7
+1/1/2015,Florida,3228,15.9
+1/1/2008,Arizona,828,13.2
+1/1/1999,Arkansas,113,4.3
+1/1/2012,Vermont,70,11.2
+1/1/2010,Utah,433,15.7
+1/1/2011,North Carolina,1264,13.1
+1/1/2004,Delaware,63,7.6
+1/1/2000,New Jersey,643,7.6
+1/1/2015,Rhode Island,310,29.3
+1/1/2003,Hawaii,92,7.4
+1/1/2004,Kansas,224,8.2
+1/1/2010,Minnesota,397,7.5
+1/1/2001,Maryland,639,11.9
+1/1/2006,Pennsylvania,1638,13.1
+1/1/2006,Illinois,1369,10.8
+1/1/2014,Georgia,1206,11.9
+1/1/1999,Michigan,460,4.6
+1/1/2009,Idaho,171,11
+1/1/2009,Tennessee,962,15.3
+1/1/2011,District of Columbia,86,13.9
+1/1/2014,District of Columbia,96,14.6
+1/1/2003,West Virginia,262,14.5
+1/1/2008,Colorado,749,15.3
+1/1/2010,Alaska,83,11.7
+1/1/2002,Utah,288,12.4
+1/1/2003,North Dakota,22,3.4
+1/1/2000,North Dakota,14,2.2
+1/1/2008,Indiana,830,12.9
+1/1/2004,West Virginia,333,18.3
+1/1/2011,Minnesota,511,9.6
+1/1/2011,Oklahoma,703,18.5
+1/1/2009,Nevada,550,20.5
+1/1/2001,Ohio,737,6.5
+1/1/2015,California,4659,11.9
+1/1/2014,Illinois,1705,13.2
+1/1/2014,Maine,216,16.2
+1/1/2001,Delaware,64,8
+1/1/2010,Iowa,253,8.3
+1/1/2007,West Virginia,397,21.6
+1/1/2012,Nebraska,146,7.9
+1/1/1999,Pennsylvania,990,8.1
+1/1/2015,Washington,1094,15.3
+1/1/2011,Illinois,1408,10.9
+1/1/2010,New Mexico,478,23.2
+1/1/2001,Rhode Island,110,10.4
+1/1/2010,Massachusetts,738,11.3
+1/1/2005,Montana,96,10.2
+1/1/2013,Alaska,105,14.3
+1/1/2009,Oklahoma,756,20.3
+1/1/2013,Louisiana,809,17.5
+1/1/2001,New Mexico,258,14.1
+1/1/2003,Utah,353,15
+1/1/2001,Oklahoma,269,7.8
+1/1/2008,South Dakota,54,6.8
+1/1/2002,District of Columbia,61,10.6
+1/1/2012,Montana,118,11.7
+1/1/2010,South Dakota,45,5.5
+1/1/2005,California,3214,9
+1/1/2010,Wisconsin,630,11.1
+1/1/2013,Connecticut,582,16.2
+1/1/2011,West Virginia,635,34.2
+1/1/2005,Wisconsin,518,9.3
+1/1/2000,Illinois,868,7
+1/1/2010,Connecticut,363,10.2
+1/1/2001,Illinois,892,7.1
+1/1/2008,Louisiana,647,14.6
+1/1/2000,Pennsylvania,1147,9.3
+1/1/1999,District of Columbia,48,8.4
+1/1/2011,Michigan,1386,14
+1/1/2003,Montana,93,10.1
+1/1/2008,New York,1691,8.8
+1/1/2015,Hawaii,169,11.8
+1/1/2015,Tennessee,1457,22.1
+1/1/1999,North Dakota,12,1.9
+1/1/2004,New Hampshire,124,9.6
+1/1/2004,Iowa,122,4.1
+1/1/2013,Montana,137,13.5
+1/1/2001,New Hampshire,79,6.3
+1/1/2006,Kentucky,728,17.3
+1/1/1999,Arizona,511,10.2
+1/1/2013,Missouri,1025,17
+1/1/2009,Alaska,131,18.7
+1/1/2006,New York,1680,8.8
+1/1/2000,New Mexico,271,14.9
+1/1/2007,Wyoming,63,11.8
+1/1/2003,Wisconsin,383,7
+1/1/2008,North Carolina,1196,12.8
+1/1/2009,New Mexico,438,21.5
+1/1/2000,Alaska,48,7.7
+1/1/2000,Maine,61,4.8
+1/1/2006,Mississippi,339,11.7
+1/1/2001,Mississippi,169,5.9
+1/1/2000,Ohio,563,5
+1/1/2006,New Jersey,847,9.8
+1/1/2002,Minnesota,201,4
+1/1/2009,Michigan,1429,14.4
+1/1/2015,West Virginia,725,39.3
+1/1/2001,Michigan,621,6.2
+1/1/2015,New Hampshire,422,31.7
+1/1/2005,Kansas,241,8.8
+1/1/2001,South Dakota,24,3.2
+1/1/2008,Florida,2963,16
+1/1/2014,Delaware,189,20.2
+1/1/2002,Rhode Island,99,9.3
+1/1/2008,New Hampshire,126,9.6
+1/1/2009,Arizona,1002,15.8
+1/1/2002,Arizona,624,11.6
+1/1/2011,Texas,2589,10.1
+1/1/2000,Rhode Island,74,7.1
+1/1/2000,Alabama,197,4.4
+1/1/2003,Tennessee,662,11.3
+1/1/2011,Hawaii,180,13.1
+1/1/2012,Michigan,1308,13.2
+1/1/2002,Missouri,416,7.3
+1/1/2014,Maryland,1070,17.9
+1/1/2011,Florida,2918,15.3
+1/1/2014,New Mexico,547,26.2
+1/1/2007,South Dakota,32,4
+1/1/2001,Arkansas,126,4.7
+1/1/2000,Michigan,561,5.6
+1/1/2011,Vermont,83,13.2
+1/1/2011,Arkansas,355,12.1
+1/1/2015,Nebraska,126,6.6
+1/1/2014,South Dakota,63,7.4
+1/1/2001,Tennessee,424,7.4
+1/1/2003,Massachusetts,823,12.8
+1/1/2015,North Dakota,61,8.1
+1/1/2001,Idaho,98,7.4
+1/1/2003,Mississippi,207,7.2
+1/1/2002,Vermont,47,7.6
+1/1/1999,Tennessee,344,6.1
+1/1/2015,Minnesota,581,10.6
+1/1/2011,Utah,504,17.9
+1/1/2007,Alaska,72,10.6
+1/1/2008,Minnesota,384,7.3
+1/1/2004,Nevada,380,16.2
+1/1/2009,Wisconsin,631,11.1
+1/1/2006,New Hampshire,149,11.4
+1/1/2004,North Carolina,854,10
+1/1/2000,Maryland,623,11.8
+1/1/2010,Hawaii,151,11.1
+1/1/2001,Arizona,552,10.5
+1/1/2004,Arkansas,230,8.4
+1/1/2012,New York,2106,10.8
+1/1/2005,Michigan,985,9.8
+1/1/2013,Maryland,892,15
+1/1/2010,Montana,118,11.9
+1/1/2015,Montana,138,13.4
+1/1/2009,Illinois,1381,10.8
+1/1/2005,South Carolina,427,10
+1/1/2001,West Virginia,206,11.4
+1/1/2003,Nebraska,55,3.2
+1/1/2003,Pennsylvania,1381,11.2
+1/1/2002,New Mexico,287,15.5
+1/1/2006,Massachusetts,970,15.1
+1/1/2013,North Carolina,1259,12.8
+1/1/2002,Alaska,84,13.1
+1/1/2011,North Dakota,16,2.3
+1/1/2015,Iowa,309,9.9
+1/1/2008,Alaska,127,18.5
+1/1/2014,Massachusetts,1289,19.1
+1/1/2012,Utah,601,21
+1/1/2005,Connecticut,295,8.4
+1/1/2008,Oklahoma,564,15.4
+1/1/2004,Arizona,744,13.2
+1/1/2008,Montana,134,13.7
+1/1/2002,Tennessee,491,8.5
+1/1/2009,Arkansas,351,12.1
+1/1/2010,Nebraska,117,6.4
+1/1/2010,Missouri,998,16.7
+1/1/2004,Idaho,98,7
+1/1/2008,Nevada,519,19.6
+1/1/2000,Kansas,103,3.8
+1/1/2005,North Carolina,1000,11.5
+1/1/2013,Florida,2474,12.7
+1/1/2009,New Hampshire,168,12.8
+1/1/2005,North Dakota,12,1.9
+1/1/2006,Arkansas,285,10.1
+1/1/2002,Kentucky,426,10.4
+1/1/2014,Virginia,980,11.8
+1/1/2003,Idaho,102,7.5
+1/1/2002,New Hampshire,111,8.7
+1/1/1999,New Hampshire,54,4.4
+1/1/2004,California,3125,8.8
+1/1/2006,Indiana,736,11.6
+1/1/2007,South Carolina,545,12.3
+1/1/2007,North Carolina,1084,11.9
+1/1/2005,Vermont,53,8.5
+1/1/2002,Indiana,293,4.8
+1/1/2005,Florida,2371,13.3
+1/1/2011,New York,1948,10
+1/1/2004,Indiana,542,8.7
+1/1/2008,Arkansas,360,12.5
+1/1/2013,West Virginia,570,30.7
+1/1/2002,Idaho,117,8.7
+1/1/2000,Hawaii,63,5.2
+1/1/2013,Michigan,1553,15.7
+1/1/2001,Vermont,44,7.2
+1/1/2000,Montana,41,4.5
+1/1/2008,Nebraska,94,5.2
+1/1/2003,Michigan,761,7.6
+1/1/2009,Pennsylvania,1909,15.1
+1/1/2002,Maine,139,10.7
+1/1/2001,Colorado,411,9.3
+1/1/2004,South Carolina,356,8.5
+1/1/2003,Wyoming,30,6
+1/1/2005,Alabama,283,6.2
+1/1/2007,New Hampshire,186,14.2
+1/1/2007,Florida,2794,15.2
+1/1/2001,New York,1079,5.7
+1/1/2000,Tennessee,397,7
+1/1/2005,Maryland,656,11.7
+1/1/2014,Vermont,83,13.2
+1/1/2002,Florida,1927,11.5
+1/1/2010,Kentucky,1007,23.2
+1/1/2007,Oregon,502,13.5
+1/1/2005,Alaska,79,11.8
+1/1/2012,Maine,150,11.3
+1/1/2005,Iowa,141,4.8
+1/1/1999,Idaho,64,5
+1/1/2004,Maryland,676,12.2
+1/1/2011,Rhode Island,190,18.1
+1/1/2008,New Mexico,518,25.8
+1/1/1999,Vermont,29,4.8
+1/1/2011,Colorado,843,16.5
+1/1/2014,California,4521,11.7
+1/1/2003,Iowa,96,3.3
+1/1/2007,Virginia,700,9
+1/1/2009,Rhode Island,161,15.3
+1/1/2000,Idaho,64,4.9
+1/1/2000,Arkansas,140,5.2
+1/1/2013,Wisconsin,856,14.9
+1/1/2009,Oregon,501,13.2
+1/1/2005,New Hampshire,142,10.9
+1/1/2006,Rhode Island,175,16.5
+1/1/2002,West Virginia,229,12.7
+1/1/2008,Alabama,607,12.9
+1/1/2012,Georgia,1056,10.6
+1/1/2004,Massachusetts,669,10.4
+1/1/2015,Delaware,198,20.9
+1/1/2012,Kansas,318,11
+1/1/2002,Kansas,170,6.3
+1/1/2010,Idaho,178,11.4
+1/1/2012,Minnesota,482,9
+1/1/2012,Connecticut,439,12.2
+1/1/2001,Utah,209,9.2
+1/1/2001,Washington,499,8.3
+1/1/2008,Delaware,124,14
+1/1/2013,California,4452,11.6
+1/1/2005,Delaware,62,7.3
+1/1/2004,Wisconsin,437,7.9
+1/1/2013,Tennessee,1187,18.3
+1/1/2013,Oregon,455,11.6
+1/1/2010,Arizona,1098,17.2
+1/1/2013,Illinois,1579,12.3
+1/1/2009,Delaware,136,15.3
+1/1/2006,Oregon,485,13.2
+1/1/2003,Georgia,607,7
+1/1/2007,Ohio,1592,13.8
+1/1/2013,South Dakota,55,6.5
+1/1/2014,Nebraska,125,6.6
+1/1/2010,Alabama,547,11.4
+1/1/2015,Wisconsin,878,15.2
+1/1/2008,Texas,2053,8.4
+1/1/2006,Wyoming,55,10.5
+1/1/2011,Georgia,1058,10.8
+1/1/2007,Delaware,97,11.1
+1/1/2005,Oklahoma,478,13.5
+1/1/2007,New Jersey,727,8.4
+1/1/2011,California,4180,11.1
+1/1/1999,Hawaii,80,6.6
+1/1/2012,Arkansas,373,12.6
+1/1/2007,North Dakota,32,4.9
+1/1/2003,Washington,696,11.4
+1/1/2003,New Jersey,721,8.4
+1/1/2008,Kansas,219,7.8
+1/1/2013,District of Columbia,102,15.8
+1/1/2005,Mississippi,248,8.5
+1/1/1999,New Mexico,266,14.7
+1/1/2010,Indiana,927,14.3
+1/1/2000,Iowa,73,2.5
+1/1/1999,Wyoming,20,4.1
+1/1/2013,Iowa,275,8.9
+1/1/2014,Iowa,264,8.5
+1/1/2006,Maine,159,12
+1/1/2004,Montana,98,10.5
+1/1/1999,Alabama,169,3.8
+1/1/2003,Virginia,547,7.4
+1/1/2005,Utah,438,17.8
+1/1/2005,New York,944,4.9
+1/1/2011,Maryland,707,12.1
+1/1/2012,Iowa,259,8.4
+1/1/2006,North Carolina,1059,11.9
+1/1/2009,Colorado,769,15.5
+1/1/2004,Pennsylvania,1544,12.4
+1/1/2014,Indiana,1172,17.8
+1/1/2006,Alabama,398,8.6
+1/1/1999,Illinois,825,6.7
+1/1/2003,Kansas,188,6.9
+1/1/2007,Louisiana,808,18.5
+1/1/2015,Mississippi,351,11.7
+1/1/2015,South Carolina,761,15.5
+1/1/2014,Ohio,2744,23.7
+1/1/2011,Alaska,107,14.8
+1/1/2002,Pennsylvania,1097,8.9
+1/1/2013,Washington,969,13.9
+1/1/2004,Illinois,1035,8.2
+1/1/2011,Wisconsin,698,12.2
+1/1/2007,Maine,159,12
+1/1/2010,New Jersey,868,9.9
+1/1/2000,Mississippi,114,4
+1/1/2012,Wisconsin,692,12.1
+1/1/2010,Oklahoma,717,19.1
+1/1/2004,South Dakota,43,5.6
+1/1/2013,Virginia,854,10.3
+1/1/2013,Vermont,93,14.8
+1/1/2010,Michigan,1394,14.1
+1/1/2007,Iowa,203,6.8
+1/1/2013,Idaho,207,12.8
+1/1/2012,Louisiana,566,12.3
+1/1/2015,Connecticut,800,22.3
+1/1/2006,Montana,97,10.2
+1/1/2007,Indiana,781,12.2
+1/1/2004,Colorado,518,11.3
+1/1/2011,Alabama,552,11.5
+1/1/2005,Kentucky,638,15.3
+1/1/2006,New Mexico,418,21.3
+1/1/1999,Rhode Island,58,5.6
+1/1/2000,Georgia,364,4.4
+1/1/1999,Florida,997,6.3
+1/1/2007,Minnesota,341,6.5
+1/1/2012,New Mexico,492,23.6
+1/1/2010,New York,1557,8
+1/1/2007,Idaho,126,8.4
+1/1/2004,Alabama,283,6.2
+1/1/2006,Michigan,1176,11.7
+1/1/2015,Alaska,122,16.5
+1/1/2001,Virginia,459,6.4
+1/1/2000,Connecticut,320,9.4
+1/1/2007,Hawaii,136,10.3
+1/1/2000,Washington,556,9.4
+1/1/2000,Colorado,352,8.2
+1/1/2011,Idaho,193,12.2
+1/1/2008,Virginia,718,9.2
+1/1/2000,New York,767,4
+1/1/1999,Kansas,89,3.3
+1/1/2015,Louisiana,861,18.4
+1/1/2004,Louisiana,539,11.8
+1/1/2014,Montana,125,12.2
+1/1/2014,Oklahoma,777,20
+1/1/2015,Oklahoma,725,18.5
+1/1/2000,Louisiana,248,5.5
+1/1/2008,Washington,1011,15.4
+1/1/2006,Kansas,257,9.3
+1/1/2001,Hawaii,77,6.3
+1/1/2006,Vermont,75,12
+1/1/2010,Pennsylvania,1916,15.1
+1/1/2015,Indiana,1245,18.8
+1/1/2012,Rhode Island,196,18.7
+1/1/1999,Washington,555,9.5
+1/1/2011,Virginia,798,9.9
+1/1/2010,Louisiana,591,13
+1/1/2006,West Virginia,362,19.8
+1/1/2010,Georgia,1054,10.9
+1/1/2006,Delaware,78,9.1
+1/1/1999,Colorado,349,8.3
+1/1/2000,Florida,1159,7.3
+1/1/2015,Nevada,619,21.4
+1/1/2002,New York,923,4.8
+1/1/2010,Ohio,1835,15.9
+1/1/2008,Connecticut,386,10.9
+1/1/2007,Michigan,1236,12.4
+1/1/2008,Missouri,765,12.9
+1/1/1999,Delaware,50,6.5
+1/1/2003,Arizona,674,12.2
+1/1/2005,Colorado,608,13.1
+1/1/2001,Oregon,241,6.9
+1/1/2008,Pennsylvania,1850,14.7
+1/1/2002,Hawaii,77,6.2
+1/1/2002,North Dakota,17,2.7
+1/1/2001,Indiana,283,4.6
+1/1/2006,Wisconsin,593,10.6
+1/1/2004,Utah,358,14.9
+1/1/2015,North Carolina,1567,15.6
+1/1/2012,Maryland,831,14.1
+1/1/2009,Kentucky,769,17.8
+1/1/2014,Arizona,1211,18
+1/1/2004,Nebraska,59,3.4
+1/1/2002,South Dakota,22,2.9
+1/1/2007,Nebraska,80,4.5
+1/1/2000,Oklahoma,237,6.9
+1/1/2015,Maryland,1285,21.4
+1/1/2003,District of Columbia,103,18.1
+1/1/2008,Ohio,1733,15
+1/1/2014,Michigan,1762,17.8
+1/1/2003,Ohio,775,6.8
+1/1/2010,California,4057,10.9
+1/1/2001,Iowa,87,3
+1/1/2003,Minnesota,246,4.9
+1/1/2002,Michigan,751,7.5
+1/1/2012,New Jersey,1222,13.8
+1/1/2002,South Carolina,217,5.3
+1/1/2006,Nebraska,91,5.1
+1/1/2001,Massachusetts,689,10.8
+1/1/2008,Wisconsin,606,10.7
+1/1/2014,Wisconsin,853,14.8
+1/1/2015,New Jersey,1454,16.2
+1/1/1999,Virginia,366,5.2
+1/1/2000,Missouri,303,5.4
+1/1/2010,Delaware,145,16.1
+1/1/2010,Kansas,269,9.4
+1/1/2015,Ohio,3310,28.5
+1/1/2013,Nevada,614,22
+1/1/2001,Alabama,216,4.8
+1/1/2009,Montana,142,14.4
+1/1/1999,Missouri,276,5
+1/1/2011,Iowa,250,8.2
+1/1/2010,South Carolina,678,14.7
+1/1/1999,Maryland,629,12
+1/1/2011,Washington,997,14.6
+1/1/2015,Maine,269,20.2
+1/1/2008,Michigan,1239,12.5
+1/1/2014,North Dakota,43,5.8
+1/1/2003,South Dakota,24,3.1
+1/1/2015,New Mexico,501,24
+1/1/2015,Massachusetts,1724,25.4
+1/1/2015,District of Columbia,125,18.6
+1/1/2015,Oregon,505,12.5
+1/1/2005,Ohio,1243,10.8
+1/1/2004,Rhode Island,106,9.9
+1/1/2006,Connecticut,407,11.6
+1/1/2000,Delaware,55,7
+1/1/2003,Maine,133,10.2
+1/1/2012,Ohio,2125,18.4
+1/1/2008,New Jersey,702,8.1
+1/1/2007,California,3854,10.6
+1/1/1999,Oklahoma,178,5.2
+1/1/2000,Wisconsin,248,4.6
+1/1/1999,Wisconsin,212,4
+1/1/2000,Massachusetts,463,7.3
+1/1/2003,Arkansas,184,6.8
+1/1/2004,Mississippi,224,7.8
+1/1/2014,Mississippi,336,11.2
+1/1/2014,Utah,603,20.5
+1/1/2009,Missouri,863,14.5
+1/1/2014,West Virginia,627,33.9
+1/1/2004,Connecticut,333,9.5
+1/1/2008,Tennessee,938,15
+1/1/2001,Minnesota,185,3.7
+1/1/2000,South Carolina,258,6.4
+1/1/2010,North Carolina,1093,11.5
+1/1/2008,Hawaii,123,9.2
+1/1/2002,Washington,643,10.6
+1/1/2002,Nebraska,66,3.8
+1/1/2000,Oregon,208,6.1
+1/1/2010,Florida,3061,16.3
+1/1/2000,South Dakota,20,2.6
+1/1/2006,Georgia,830,9.1
+1/1/2002,Louisiana,365,8.1
+1/1/2011,Indiana,975,15
+1/1/2011,Kansas,280,9.8
+1/1/2009,District of Columbia,26,4.4
+1/1/2000,Minnesota,130,2.6
+1/1/2000,Indiana,214,3.5
+1/1/2008,Maine,162,12.2
+1/1/2015,Pennsylvania,3264,25.5
+1/1/2013,Wyoming,98,16.8
+1/1/2002,Texas,1598,7.4
+1/1/2008,Mississippi,303,10.3
+1/1/2006,Texas,2191,9.4
+1/1/2011,Tennessee,1090,17
+1/1/2002,Connecticut,354,10.2
+1/1/2007,Montana,125,13
+1/1/2013,Alabama,598,12.4
+1/1/2005,Washington,850,13.6
